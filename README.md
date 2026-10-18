@@ -12,7 +12,7 @@ LSM Games Studio es el desarrollador de Last Bonfire: Winter City, un juego de s
 
 - No hace falta crear una cuenta y no te pedimos tu nombre, tu correo ni otros datos personales.
 - Tus partidas y tus ajustes se guardan solo en tu dispositivo.
-- Es un juego de pago: se compra una vez al descargarlo en Google Play, que gestiona el pago. No tiene compras dentro ni anuncios.
+- Es un juego de pago: se compra una vez al descargarlo en Google Play o, en iPhone y iPad, en la App Store, que gestionan el pago. No tiene compras dentro ni anuncios.
 - No envía estadísticas de uso ni informes de errores, y no usa Firebase ni ningún otro servicio de análisis.
 - Se juega entero sin conexión: no hay ningún servidor nuestro y el juego no se conecta a internet.
 
@@ -39,6 +39,10 @@ El juego no te pide ningún permiso: no accede a la ubicación, los contactos, l
 ## Descarga desde Google Play
 
 El juego se descarga desde Google Play, que trata los datos de la descarga, de la compra y de tu cuenta según su propia política de privacidad. LSM Games Studio solo ve las estadísticas agregadas que Google facilita a los desarrolladores, como el número de instalaciones por país, sin datos que permitan identificarte.
+
+## En iPhone y iPad
+
+Last Bonfire también está en la App Store para iPhone y iPad. En esa versión el juego se compra una sola vez en la App Store, con tu cuenta de Apple: Apple procesa el pago según sus propias condiciones y su política de privacidad, y LSM Games Studio no ve ni guarda tus datos de pago. Igual que en Android, no tiene compras dentro, anuncios, estadísticas de uso ni seguimiento: no usa el identificador de publicidad de Apple, no pide el aviso de seguimiento («Permitir que la app rastree tu actividad») ni ningún otro permiso, y no recoge datos personales. Tus partidas y tus ajustes se guardan solo en el aparato (y en tu copia de seguridad de iCloud si la tienes activada, que gestiona Apple con su propia política; nosotros no accedemos a ella) y se borran al eliminar la app.
 
 ## Conservación y eliminación
 
@@ -79,7 +83,7 @@ LSM Games Studio is the developer of Last Bonfire: Winter City, a survival game 
 
 - You don't need an account, and we don't ask for your name, email or any other personal data.
 - Your games and settings are stored only on your device.
-- It is a paid game: you buy it once when you download it from Google Play, which handles the payment. It has no in-app purchases and no ads.
+- It is a paid game: you buy it once when you download it from Google Play or, on iPhone and iPad, from the App Store, which handle the payment. It has no in-app purchases and no ads.
 - It sends no usage statistics or crash reports, and it does not use Firebase or any other analytics service.
 - The whole game is played offline: there is no server of ours and the game does not connect to the internet.
 
@@ -106,6 +110,10 @@ The game asks for no permissions: it does not access your location, contacts, ca
 ## Downloading from Google Play
 
 The game is downloaded from Google Play, which handles the data of the download, the purchase and your account under its own privacy policy. LSM Games Studio only sees the aggregated statistics Google gives developers, such as the number of installs per country, with no data that identifies you.
+
+## On iPhone and iPad
+
+Last Bonfire is also on the App Store for iPhone and iPad. In that version you buy the game once on the App Store with your Apple account: Apple processes the payment under its own terms and privacy policy, and LSM Games Studio does not see or store your payment details. As on Android, it has no in-app purchases, ads, usage statistics or tracking: it does not use Apple's advertising identifier, does not show the tracking prompt ("Allow App to Track Your Activity") or ask for any other permission, and does not collect personal data. Your games and settings are stored only on the device (and in your iCloud backup if you have it turned on, which Apple handles under its own policy; we have no access to it) and are deleted when you delete the app.
 
 ## Retention and deletion
 
